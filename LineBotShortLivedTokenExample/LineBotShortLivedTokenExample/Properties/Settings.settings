@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LineBotShortLivedTokenExample.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DbPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\DataBase\Data.sqlite</Value>
+    </Setting>
+    <Setting Name="ChannelId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YourChannelId</Value>
+    </Setting>
+    <Setting Name="Secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YourSecret</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
