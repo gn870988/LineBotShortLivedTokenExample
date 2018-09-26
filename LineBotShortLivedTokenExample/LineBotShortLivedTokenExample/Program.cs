@@ -19,7 +19,7 @@ namespace LineBotShortLivedTokenExample
             var botService = new BotService().Instance();
             botService.PushMessage(lineId, "Normal Method");
 
-            Console.WriteLine("訊息發送成功！");
+            Console.WriteLine("訊息發送成功！！");
             Console.Read();
         }
     }
